@@ -8,10 +8,10 @@
 
 ## Integrantes
 
-- Kauam Fontanela
-- Dalton Pavesi
-- Gabriel Augusto Pinotti
-- Jhonathan Werick dos Santos Silva
+- Kauam Fontanela.
+- Dalton Pavesi.
+- Gabriel Augusto Pinotti.
+- Jhonathan Werick dos Santos Silva.
 
 ## Explicando o jogo
 
